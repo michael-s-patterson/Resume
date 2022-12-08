@@ -1,84 +1,69 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Michael Patterson's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
-
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
+# Michael Patterson
+Motivated employee who is self-driven and can be trusted to work independently to complete assigned
+tasks. Proficient with QuickBooks and able to use various programming languages such as VBA and Python
+to accomplish tasks quickly and efficiently.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2020-Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
+- Bachelor of Science in Accounting
+- Business CLuster Data Analytics
+- GPA 3.867 
 
-- 4.0 Major GPA
+ 
+### Work Experience
+## Work Foreman
+`August 2021 - Present`
+__EZ Exteriors__, Idaho Falls, ID
 
+- Produce estimates for clients on their individual projects
+- Oversee work crews of 3-5 employees and ensure quality is met
+- Required to make decisions regarding projects and purchasing properties
+- Create schedule for jobs and ensure that deadlines are kept
 
-## Related Experience
+## Driving Instructor
+`March 2020 - April 2021`
+__A+ Driving School__, Ammon, ID 
 
-### Internships
+- Coordinated driving schedules with students ages 14 -17
+- Taught behind-the-wheel proper driving skills
+- Learned to communicate effectively and clearly under stressful circumstances
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`October 2019 - April 2021`
+__Sportsmans Warehouse__, Salesman
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Answered questions and helped customers find the gear and equipment they needed
+- Assisted customers with required paperwork for purchase of firearms
+- Handled and dealt with confidential information on a daily basis when assisting customers
 
-### Data Science Lead
+### Volunteer Experience
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`January 2018 - October 2019`
+__Russia, Rostov-na-Donu Non-Profit Church Organization__, Travel Cordinator/Church Volunteer
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Worked on a team of 6 Individuals planning travel for 30-50 individuals every 6 weeks
+- Relied on written and verbal communication to ensure individuals arrived on time
+- Trusted with coordinating travel across 3 different countries using planes, trains, and cars
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`June 2021 - Present`
+__Humanitarian XP __, Trip Leader
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
+- Led trips of 20+ youth ages 16-19 on two week international trips to build schools and medical centers
+- Organized day to day activities including sight-seeing, worksite tasks, and evening activities with locals
+- Built meaningful relationships not only with locals but also with the youth
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Skills and Compentencies
+
+- Competent in creating financial statements both quarterly and year end
+- Independent thinker able to be given tasks and trusted to complete on time
+- Excel and VBA
+- Python and MySQL
 
 
 
